@@ -7,4 +7,4 @@ Im Rahmen dieser Seminararbeit soll aus diesen Gründen ein emotionaler, auf Tex
 ## Client
 Auf der Client-Instanz mit welchem die Anwendenden interagieren befindet sich der Chat, welcher zur Interaktion benötigt wird.So zeigt der Chat mithilfe von Emoji die aktuelle Emotion des Agenten an, welche auf den durchschnittlichen Konversationsbedingungen von Menschen, wie Lese-, Reaktions- und Antwortzeit, basieren. Zusätzlich wird mithilfe einer Schreib Animation in Form von drei Punkten dem User angezeigt, dass der Agent eine Nachricht verfasst, um die Menschlichkeit zu steigern. Die Usernachricht wird über einen POST Request in Form eines JSON-Strings an den Server übermittelt. 
 
-
+<img src="https://github.com/raycan1993/Emotional-Conversational-Agent-Client/blob/master/README-img/1.png" width="500">
